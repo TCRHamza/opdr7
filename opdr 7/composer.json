@@ -1,0 +1,16 @@
+{
+    "name": "voorbeeld/opdr7",
+    "type": "yes",
+    "autoload": {
+        "psr-4": {
+            "Voorbeeld\\Opdr7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hmidoushvdb",
+            "email": "9018415@student.tcrmbo.nl"
+        }
+    ],
+    "require": {}
+}
